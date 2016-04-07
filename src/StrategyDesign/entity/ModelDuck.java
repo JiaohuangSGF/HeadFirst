@@ -1,7 +1,7 @@
-package DuckDemo.entity;
+package StrategyDesign.entity;
 
-import DuckDemo.behavior.fly.FlyNoWay;
-import DuckDemo.behavior.quack.Quack;
+import StrategyDesign.behavior.fly.FlyNoWay;
+import StrategyDesign.behavior.quack.Quack;
 
 /**
  * ClassName: ModelDuck 

@@ -1,7 +1,7 @@
-package DuckDemo.entity;
+package StrategyDesign.entity;
 
-import DuckDemo.behavior.fly.FlyWithWings;
-import DuckDemo.behavior.quack.Quack;
+import StrategyDesign.behavior.fly.FlyWithWings;
+import StrategyDesign.behavior.quack.Quack;
 
 /**
  * 

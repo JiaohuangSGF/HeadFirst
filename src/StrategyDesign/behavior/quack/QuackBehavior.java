@@ -1,4 +1,4 @@
-package DuckDemo.behavior.quack;
+package StrategyDesign.behavior.quack;
 
 public interface QuackBehavior {
 

@@ -1,9 +1,9 @@
-package DuckDemo;
+package StrategyDesign;
 
-import DuckDemo.behavior.fly.FlyRocketPowered;
-import DuckDemo.entity.Duck;
-import DuckDemo.entity.MallardDuck;
-import DuckDemo.entity.ModelDuck;
+import StrategyDesign.behavior.fly.FlyRocketPowered;
+import StrategyDesign.entity.Duck;
+import StrategyDesign.entity.MallardDuck;
+import StrategyDesign.entity.ModelDuck;
 
 
 public class Test {
