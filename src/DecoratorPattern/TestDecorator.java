@@ -1,10 +1,10 @@
-package DecoratorDesign;
+package DecoratorPattern;
 
-import DecoratorDesign.decoratorExample.Soy;
-import DecoratorDesign.decoratorExample.Whip;
-import DecoratorDesign.drink.Beverage;
-import DecoratorDesign.drink.Espresso;
-import DecoratorDesign.drink.HouseBlend;
+import DecoratorPattern.decoratorExample.Soy;
+import DecoratorPattern.decoratorExample.Whip;
+import DecoratorPattern.drink.Beverage;
+import DecoratorPattern.drink.Espresso;
+import DecoratorPattern.drink.HouseBlend;
 
 public class TestDecorator {
 

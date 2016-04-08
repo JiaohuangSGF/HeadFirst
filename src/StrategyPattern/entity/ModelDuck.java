@@ -1,7 +1,7 @@
-package StrategyDesign.entity;
+package StrategyPattern.entity;
 
-import StrategyDesign.behavior.fly.FlyNoWay;
-import StrategyDesign.behavior.quack.Quack;
+import StrategyPattern.behavior.fly.FlyNoWay;
+import StrategyPattern.behavior.quack.Quack;
 
 /**
  * ClassName: ModelDuck 

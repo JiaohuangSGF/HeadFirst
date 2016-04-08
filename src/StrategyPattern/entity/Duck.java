@@ -1,7 +1,7 @@
-package StrategyDesign.entity;
+package StrategyPattern.entity;
 
-import StrategyDesign.behavior.fly.FlyBehavior;
-import StrategyDesign.behavior.quack.QuackBehavior;
+import StrategyPattern.behavior.fly.FlyBehavior;
+import StrategyPattern.behavior.quack.QuackBehavior;
 
 public abstract class Duck {
 

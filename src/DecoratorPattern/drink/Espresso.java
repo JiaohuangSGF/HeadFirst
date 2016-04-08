@@ -1,4 +1,4 @@
-package DecoratorDesign.drink;
+package DecoratorPattern.drink;
 
 
 /**

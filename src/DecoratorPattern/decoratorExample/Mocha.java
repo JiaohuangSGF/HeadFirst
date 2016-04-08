@@ -1,6 +1,6 @@
-package DecoratorDesign.decoratorExample;
+package DecoratorPattern.decoratorExample;
 
-import DecoratorDesign.drink.Beverage;
+import DecoratorPattern.drink.Beverage;
 
 /**
  * 
